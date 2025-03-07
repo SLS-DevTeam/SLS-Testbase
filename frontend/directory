@@ -1,0 +1,13 @@
+frontend/
+├── public/
+│   └── index.html
+├── src/
+│   ├── App.tsx
+│   ├── index.tsx
+│   ├── supabaseClient.ts
+│   └── components/
+│       ├── Login.tsx
+│       ├── Dashboard.tsx
+│       └── ChatBot.tsx
+├── package.json
+└── tsconfig.json
